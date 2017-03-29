@@ -1,0 +1,4 @@
+com/osgi/helloworld/Activator.class
+com/osgi/helloworld/service/HelloImpl.class
+com/osgi/helloworld/App.class
+com/osgi/helloworld/service/Hello.class

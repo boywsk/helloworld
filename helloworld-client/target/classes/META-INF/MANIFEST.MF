@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1490769302476
+Build-Jdk: 1.8.0_111
+Built-By: wangshikai
+Bundle-Activator: com.osgi.helloworld.client.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: helloworld-client
+Bundle-SymbolicName: helloworld-client
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.osgi.helloworld.client;uses:="org.osgi.framework";ve
+ rsion="1.0.0"
+Import-Package: org.osgi.framework;version="[1.7,2)",com.osgi.helloworld
+ .service;version="1.0.0"
+Tool: Bnd-2.1.0.20130426-122213
